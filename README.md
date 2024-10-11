@@ -1,5 +1,5 @@
 Introduction
-This project includes the necessary code and simulation environment for bimanual haptic feedback control, RL-based autonomous control, and shared control navigation for cell sorting. To facilitate the demonstration of the visual rendering demo for visitor, you can refer to the previously generated visual rendering video. Additionally, I included the "Rendered Images Raw Data.zip" contains robot images with different poses and depths for your reference. Following the tutorial, you can replicate the cell sorting demo.
+This project includes the necessary code and simulation environment for bimanual haptic feedback control, RL-based autonomous control, and shared control navigation for cell sorting. To facilitate the demonstration of the visual rendering demo for visitor, I included the "Visualization_rendering_video.zip" contains robot images with different poses and depths for your reference. Following the tutorial, you can replicate the cell sorting demo.
 
 Usage
 1. Preparation
