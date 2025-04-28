@@ -22,11 +22,11 @@ using optical-tweezer-actuated microrobots.
 ## ✨ Features  
 
 ### 🤖 Shared OT Micromanipulation Process  
-![Shared OT Micromanipulation GIF](gifs/shared_ot_process.gif)  
+![Shared OT Micromanipulation GIF](shared_ot_process.gif)  
 Users first indirectly grasp target cells using optical robots, then transport the cells to designated locations before releasing them.  
 
 ### 📈 Effectiveness Validation Experiment  
-![Shared Control Validation GIF](gifs/shared_control_validation.gif)  
+![Shared Control Validation GIF](shared_control_validation.gif)  
 Manual control is safe yet inefficient, autonomous control is efficient but collision-prone, and shared control balances efficiency with safety.  
 
 ## 📋 Requirements  
