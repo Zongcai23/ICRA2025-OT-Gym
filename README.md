@@ -118,13 +118,9 @@ rosrun rl_navigation deploy_best_model.py
 
 ## 📂 File Structure  
 ```plaintext
-.
-├── docs/
-│   ├── badges/                     # badge SVGs
-│   └── overview.png                # overview diagram
-├── gifs/
-│   ├── shared_ot_process.gif
-│   └── shared_control_validation.gif
+├── overview.png                # overview diagram
+├── shared_ot_process.gif
+├── shared_control_validation.gif
 ├── Bimanual_haptic_feedback_control_code.zip
 ├── RL_navigation_code.zip
 ├── 3DModel.zip
